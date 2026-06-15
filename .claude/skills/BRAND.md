@@ -1,0 +1,42 @@
+# Brand Reference — MM AutoTech
+
+Referência de marca para uso com as skills `instagram-carousel` e
+`instagram-tweet-carousel`. Sempre usar estes dados como padrão ao gerar
+conteúdo para esta conta, salvo indicação em contrário.
+
+## Identidade
+
+- **Nome da marca:** MM AutoTech (Tecnologia Automotiva)
+- **Instagram:** [@mmautotech8](https://www.instagram.com/mmautotech8)
+- **Logo:** "MM" empilhado com barra vermelha de destaque + "AUTOTECH" abaixo
+- **Segmento:** Diagnóstico e serviços automotivos (scanner OBD-II, manutenção)
+- **Tom:** Técnico, ousado, profissional e confiável
+- **Idioma:** Português (BR)
+
+## Sistema de cores
+
+Paleta derivada do estilo "tech automotivo" (vermelho + preto + branco):
+
+```
+BRAND_PRIMARY = #E10600   // Vermelho vivo — destaques, ícones, CTAs, progress bar
+BRAND_LIGHT   = #FF3B30   // Vermelho claro — tags, pills, acentos sobre fundo escuro
+BRAND_DARK    = #8A0300   // Vermelho escuro — âncora de gradiente, texto de CTA
+LIGHT_BG      = #F4F4F5   // Off-white frio (raramente usado — marca é dark-first)
+LIGHT_BORDER  = #E2E2E5   // Divisórias em slides claros
+DARK_BG       = #0A0A0B   // Quase-preto — fundo principal da marca
+```
+
+> A marca é **dark-first**: priorizar fundos pretos (`DARK_BG`) com vermelho
+> de destaque e texto branco. Para a variante tweet/X, usar fundo **escuro
+> (dark mode)** por padrão.
+
+## Estilo visual
+
+- **Tipografia:** condensada/forte e técnica (estilo "Technical / sharp" →
+  Space Grotesk; ou títulos pesados condensados estilo display)
+- **Elementos gráficos:** HUD futurista, detalhes de scanner OBD-II, cantos
+  com "tech corners" vermelhos, dados em tempo real (RPM, temperatura, códigos
+  de falha tipo P0420), linhas finas e brilho vermelho
+- **Ícones:** linha (engine check, escudo, relógio, calendário, WhatsApp,
+  Instagram) na cor vermelha
+- **Canais de contato:** Instagram, WhatsApp e site (em breve)
