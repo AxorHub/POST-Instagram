@@ -1,0 +1,27 @@
+/* MM AutoTech — Design Tokens
+   Marca dark-first, tech automotivo. Vermelho + preto + grafite + branco. */
+:root {
+  /* Cores */
+  --mm-red:        #E10600;   /* primária — destaques, CTAs, números */
+  --mm-red-light:  #FF2A20;   /* acento sobre escuro */
+  --mm-red-deep:   #8A0300;   /* âncora de gradiente */
+  --mm-ink:        #0A0A0B;   /* preto base (fundo) */
+  --mm-carbon:     #141418;   /* grafite (painel alternado) */
+  --mm-line:       #26262B;   /* divisórias sobre escuro */
+  --mm-text:       #EDEDEF;   /* texto claro */
+  --mm-muted:      #9A9AA2;   /* texto secundário */
+  --mm-white:      #FFFFFF;
+
+  /* Gradiente de marca */
+  --mm-grad: linear-gradient(150deg, #8A0300 0%, #E10600 52%, #FF2A20 100%);
+  /* Brilho/HUD para fundos escuros */
+  --mm-glow: radial-gradient(circle at 82% -10%, rgba(225,6,0,0.22), transparent 55%);
+
+  /* Tipografia */
+  --mm-display: 'Archivo', system-ui, sans-serif;  /* títulos, números */
+  --mm-body:    'Inter', system-ui, sans-serif;     /* corpo, labels */
+
+  /* Escala (slide 420x525 → exporta 1080x1350) */
+  --mm-h1: 44px;  --mm-h2: 32px;  --mm-num: 150px;
+  --mm-body-size: 16px;  --mm-eyebrow: 11px;
+}

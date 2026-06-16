@@ -1,0 +1,7 @@
+{
+  "name": "mm-autotech-design",
+  "version": "1.0.0",
+  "description": "Design system e gerador de carrosséis premium para a MM AutoTech (Instagram). Auto-contido: fontes OFL self-hosted, ícones Lucide (MIT), tokens e componentes de marca. Sem dependência de conectores em tempo de geração.",
+  "author": { "name": "MM AutoTech" },
+  "keywords": ["instagram", "carousel", "design-system", "automotivo", "mm-autotech"]
+}

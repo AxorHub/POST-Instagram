@@ -1,8 +1,11 @@
 # Estratégia de Conteúdo Instagram — MM AutoTech (@mmautotech8)
 
 > Baseado na *Pesquisa de concorrentes — MM AutoTech* (15/06/2026).
-> Oficina em Guarulhos, desde 1989, +30 anos. Mecânica completa, ar-condicionado,
+> Oficina em Guarulhos. **Marca nova (2026).** Mecânica completa, ar-condicionado,
 > diagnóstico, injeção eletrônica, freios, suspensão, câmbio, direção hidráulica e retífica.
+>
+> ⚠️ **Não usar** alegações de tempo de mercado ("desde 1989", "+30 anos", "décadas").
+> A autoridade da MM vem de **tecnologia + transparência + diagnóstico justo**, não de longevidade.
 
 ---
 
@@ -12,17 +15,19 @@ Nenhum concorrente forte vende "oficina mecânica" — todos vendem **redução 
 (diagnóstico, transparência, garantia e prova social). A briga em Guarulhos não é por preço;
 é por **confiança comunicada**.
 
-Ativos exclusivos da MM AutoTech que os concorrentes não copiam:
+Como a MM é **nova**, ela não tem histórico para exibir — então constrói autoridade
+mostrando **competência técnica e processo transparente** desde o primeiro post.
+Ativos a explorar:
 
-1. **História real desde 1989** (+30 anos) — autoridade local legítima.
-2. **132 avaliações no Google** — prova social subutilizada.
-3. **Especialização em ar-condicionado automotivo** — diferenciador sazonal.
+1. **Tecnologia de diagnóstico (scanner OBD-II)** como carro-chefe — "a gente lê o que o carro diz".
+2. **Transparência radical / diagnóstico justo** — mostrar a peça, explicar o problema, aprovar antes.
+3. **Especialização em ar-condicionado automotivo** — diferenciador sazonal e técnico.
+4. **Prova social a construir** — cada cliente atendido vira conteúdo (depoimento, antes/depois, avaliação).
 
-**Virada estratégica:** parar de postar serviço → começar a postar **prova**
-(scanner, peça com defeito na mão, aprovação no WhatsApp, antes/depois, "30 anos resolvendo
-o que ninguém resolveu em Guarulhos").
+**Virada estratégica:** postar **prova**, não serviço — scanner em ação, peça com defeito na mão,
+aprovação no WhatsApp, antes/depois, bastidores do processo.
 
-**Posicionamento-mestre:** *"Diagnóstico justo desde 1989. A gente mostra o problema antes de cobrar a solução."*
+**Posicionamento-mestre:** *"Diagnóstico justo: a gente mostra o problema antes de cobrar a solução."*
 
 ---
 
@@ -45,14 +50,14 @@ o que ninguém resolveu em Guarulhos").
 
 | Concorrente | Aprender | Evitar | Adaptação MM | Formato |
 |-------------|----------|--------|--------------|---------|
-| High Torque | Mostrar o processo (scanner→peça→aprovação→entrega) | Imitar visual de franquia | "Fale direto com quem tem 30 anos de bancada" | Reel bastidor |
+| High Torque | Mostrar o processo (scanner→peça→aprovação→entrega) | Imitar visual de franquia | "Fale direto com quem faz o diagnóstico — tecnologia + transparência" | Reel bastidor |
 | Divas Car | Linguagem simples e honesta | Adotar posicionamento feminino | Linha "Diagnóstico Justo" | Carrossel/Story |
 | Maia Car | Cadência e conteúdo educativo | Brigar por parcelamento | "Sintoma → causa → risco → agende" | Reel curto |
 | Maranata | Campanhas sazonais e frequência | Virar auto center de volume | AC antes do calor, revisão de viagem | Post oferta |
 | Neto Diag. | Provar casos difíceis | Prometer sem mostrar | "O defeito que ninguém achava" | Reel/carrossel |
 | My Car | Comunicar tecnologia (DTC) | Parecer genérico | Scanner + AC como especialidade | Reel técnico |
-| Car Plus | Avaliação vira conteúdo | Depender de seguradora/preço | Série das 132 avaliações | Post/Story |
-| M8 Retífica | Comunicar garantia | Disputar só "premium" | "Retífica com garantia, explicada" | Carrossel |
+| Car Plus | Avaliação vira conteúdo | Depender de seguradora/preço | Construir e exibir as primeiras avaliações | Post/Story |
+| M8 Retífica | Comunicar garantia | Disputar só "premium" | "Serviço com garantia, explicado de forma clara" | Carrossel |
 
 ---
 
@@ -61,7 +66,7 @@ o que ninguém resolveu em Guarulhos").
 1. **Diagnóstico e tecnologia** — scanner, luz da injeção, códigos de erro, testes antes da troca.
 2. **Transparência e confiança** — orçamento explicado, aprovação antes, peça antiga × nova.
 3. **Dores comuns do cliente** — AC não gela, carro falhando, barulho, freio, superaquecimento.
-4. **Prova social e autoridade local** — avaliações, desde 1989, bastidores, antes/depois.
+4. **Prova social e autoridade técnica** — bastidores, equipamento, processo, antes/depois, depoimentos.
 5. **Ofertas e agendamento** — check-up, revisão de viagem, diagnóstico no WhatsApp, AC antes do calor.
 
 ---
@@ -74,7 +79,7 @@ o que ninguém resolveu em Guarulhos").
 | 2 | 3 | Ar-condicionado não gela: 5 causas | Carrossel |
 | 3 | 1 | Diagnóstico antes da troca de peças | Reel |
 | 4 | 2 | Peça antiga × peça nova na mão | Reel/Story |
-| 5 | 4 | Desde 1989 em Guarulhos | Post institucional |
+| 5 | 4 | Conheça a MM AutoTech (institucional) | Post institucional |
 | 6 | 3 | Carro falhando: causas comuns | Reel |
 | 7 | 3 | Barulho na suspensão: quando se preocupar | Carrossel |
 | 8 | 3 | Freio fazendo ruído | Reel |
@@ -85,7 +90,7 @@ o que ninguém resolveu em Guarulhos").
 | 13 | 2 | Orçamento claro antes do serviço | Post estático |
 | 14 | 2 | Cliente aprovando serviço pelo WhatsApp | Story |
 | 15 | 4 | Avaliação de cliente (print + foto) | Post prova social |
-| 16 | 4 | Bastidores da oficina | Reel |
+| 16 | 4 | Bastidores da oficina e do equipamento | Reel |
 | 17 | 5 | Check-up preventivo | Post oferta |
 | 18 | 3 | Câmbio automático: sinais de problema | Carrossel |
 | 19 | 3 | Direção hidráulica pesada | Reel |
@@ -99,9 +104,9 @@ Estrutura: Gancho (0–3s) → Problema → Prova/processo → CTA.
 
 1. **Luz da injeção:** painel aceso → scanner → análise → "Agende no WhatsApp".
 2. **Caso resolvido:** "Passou em 2 oficinas e continuou falhando" → código no scanner → peça de R$80 → CTA.
-3. **Peça antiga × nova:** duas peças → aponta defeito → "Você aprova antes" → "Transparente desde 1989".
+3. **Peça antiga × nova:** duas peças → aponta defeito → "Você aprova antes" → "Transparência é o padrão".
 4. **AC não gela:** mão no difusor morno → "gás, vazamento, filtro ou compressor?" → teste → "Avalie antes do calor".
-5. **Bastidores 30 anos:** fachada → veterano na bancada → entrega → "Quem tem história".
+5. **Bastidores:** conheça a MM → equipamento e scanner → time trabalhando → "Diagnóstico de verdade em Guarulhos".
 6. **Carro falhando:** motor oscilando → "vela, bobina, bico, sensor?" → teste → "Agende cedo".
 7. **Scanner explicado:** DTCs na tela → "isso é o carro falando" → "a gente traduz" → CTA.
 8. **Freio:** chiado → pastilha gasta → "não deixe pra depois" → "Avaliação hoje".
@@ -123,13 +128,13 @@ Estrutura: Gancho (0–3s) → Problema → Prova/processo → CTA.
 9. "Um dia na MM" — chegada → diagnóstico → entrega.
 10. Lembrete sazonal: "Vai viajar? Faça o check-up."
 
-Destaques fixos: `Diagnóstico` · `Ar-condicionado` · `Avaliações` · `Desde 1989` · `Antes/Depois`.
+Destaques fixos: `Diagnóstico` · `Ar-condicionado` · `Avaliações` · `A MM` · `Antes/Depois`.
 
 ---
 
 ## 8. 5 ideias de carrossel
 
-1. **5 causas do ar-condicionado fraco** (gás, vazamento, filtro, compressor, sensor).
+1. **5 causas do ar-condicionado fraco** (gás, vazamento, filtro, compressor, condensador/ventoinha).
 2. **O que o scanner revela: 6 luzes do painel decodificadas.**
 3. **Barulho na suspensão: 5 sons e o que cada um significa.**
 4. **Como funciona um atendimento transparente na MM** (diagnóstico → fotos → orçamento → aprovação → execução → entrega → garantia).
@@ -140,6 +145,7 @@ Destaques fixos: `Diagnóstico` · `Ar-condicionado` · `Avaliações` · `Desde
 ## 9. Calendário de 30 dias
 
 Ritmo: 5 posts/semana (feed seg/qua/sex + Reel/Story ter/qui) + Stories diários.
+**Melhor horário (Metricool):** dias úteis às **10h** (pico), secundário **18h**; priorizar **qua/qui/sex**.
 
 | Dia | Pilar | Conteúdo | Formato |
 |-----|-------|----------|---------|
@@ -147,7 +153,7 @@ Ritmo: 5 posts/semana (feed seg/qua/sex + Reel/Story ter/qui) + Stories diários
 | 2 | 4 | Print de avaliação Google | Story |
 | 3 | 3 | AC não gela: 5 causas | Carrossel |
 | 4 | 1 | Scanner conectado (bastidor) | Story |
-| 5 | 4 | Desde 1989 em Guarulhos | Post institucional |
+| 5 | 4 | Conheça a MM AutoTech | Post institucional |
 | 6 | 5 | AC antes do calor | Post oferta |
 | 7 | — | Enquete "última troca de óleo?" | Story |
 | 8 | 2 | Peça antiga × nova | Reel |
@@ -168,7 +174,7 @@ Ritmo: 5 posts/semana (feed seg/qua/sex + Reel/Story ter/qui) + Stories diários
 | 23 | 4 | Depoimento em vídeo | Story |
 | 24 | 3 | Câmbio automático: 5 sinais | Carrossel |
 | 25 | 2 | Cliente aprovando no WhatsApp | Story |
-| 26 | 4 | Bastidores da oficina | Reel |
+| 26 | 4 | Bastidores da oficina e equipamento | Reel |
 | 27 | 3 | Direção hidráulica pesada | Reel |
 | 28 | 5 | Lembrete sazonal de check-up | Story |
 | 29 | 2 | Por que não escolher só pelo preço | Carrossel |
@@ -191,12 +197,13 @@ Distribuição: Pilar 1 ×6 · Pilar 2 ×4 · Pilar 3 ×9 · Pilar 4 ×6 · Pila
 9. "Tem dúvida no seu carro? Chama sem compromisso."
 10. "Seu ar-condicionado parou de gelar? Avalie antes do calor."
 
-**Modelo fixo de legenda (5 blocos):** Dor → Consequência → Solução → Autoridade (desde 1989) → CTA.
+**Modelo fixo de legenda (5 blocos):** Dor → Consequência → Solução → Autoridade técnica (tecnologia + diagnóstico) → CTA.
 
 ---
 
-## 11. O que NÃO copiar
+## 11. O que NÃO copiar / NÃO usar
 
+- ❌ **Alegações de tempo de mercado** ("desde 1989", "+30 anos") — a marca é nova (2026).
 - Posicionamento feminino da Divas Car (não é o DNA).
 - Modelo de franquia/rede da High Torque.
 - Disputa por preço/parcelamento (Maia Car, M8).

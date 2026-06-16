@@ -12,6 +12,11 @@ conteúdo para esta conta, salvo indicação em contrário.
 - **Segmento:** Diagnóstico e serviços automotivos (scanner OBD-II, manutenção)
 - **Tom:** Técnico, ousado, profissional e confiável
 - **Idioma:** Português (BR)
+- **Fundação:** Marca **nova — criada em 2026**, em Guarulhos.
+
+> ⚠️ **NUNCA citar tempo de mercado / anos de experiência / "desde 1989" /
+> "+30 anos" / "décadas".** A marca é nova. Autoridade vem da **tecnologia de
+> diagnóstico, transparência e diagnóstico justo** — não de longevidade.
 
 ## Sistema de cores
 
