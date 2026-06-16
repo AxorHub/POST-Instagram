@@ -15,7 +15,8 @@ Layout em **420×525** e export com `device_scale_factor = 1080/420`.
 
 ## Marca (ler antes de escrever qualquer copy)
 
-- MM AutoTech — oficina em **Guarulhos**, **marca nova (2026)**.
+- MM AutoTech — oficina em **João Monlevade (MG)**, **marca nova (2026)**.
+  ⚠️ **Nunca citar Guarulhos.**
 - Serviços: diagnóstico/scanner OBD-II, ar-condicionado, injeção, freios,
   suspensão, câmbio, direção hidráulica, retífica.
 - Tom: técnico, direto, confiável.
@@ -35,15 +36,17 @@ corpo = **Inter** (400–700). Gradiente e glow definidos em tokens.
 - **Ícones:** `assets/icons/*.svg` (Lucide, MIT). São `stroke="currentColor"`:
   controle a cor pelo CSS `color:` do contêiner. Inline no HTML (remover
   width/height fixos e definir por uso).
-- **Logo:** `assets/logo/mm-logo.svg`.
+- **Logo oficial:** `assets/logo/mm-logo.png` (cromado 3D, fundo transparente).
+  Embutir como base64 **uma vez** no CSS (`.mmlogo{background:url(...)}`) e usar
+  divs dimensionadas. Aparece na capa (grande), no topo de cada slide e no CTA.
 
 ## Estrutura de slides (listicle 7 — padrão)
 
 | # | Tipo | Fundo | Conteúdo |
 |---|------|-------|----------|
-| 1 | Capa | gradiente de marca + glow + grid | gancho forte + monograma + "arrasta →" |
-| 2–6 | Itens | alterna preto `#0A0A0B` / grafite `#141418` | nº fantasma gigante, ícone em token, eyebrow, título, corpo, chip de diagnóstico |
-| 7 | CTA | gradiente de marca | headline + botão WhatsApp + @handle |
+| 1 | Capa | escuro `#0A0A0B` + glow vermelho + grid + barra de acento | **logo oficial grande** + gancho forte + "arrasta →" |
+| 2–6 | Itens | alterna preto `#0A0A0B` / grafite `#141418` | logo no topo, nº fantasma gigante, ícone em token, eyebrow, título, corpo, chip de diagnóstico |
+| 7 | CTA | escuro + glow vermelho | logo + headline + botão WhatsApp + @handle |
 
 ### Módulo de slide de item (estrutura fixa = "estruturado")
 1. **Top meta bar:** monograma MM • label da série (ex.: "AR-CONDICIONADO") • contador "02 / 07".

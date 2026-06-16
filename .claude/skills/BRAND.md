@@ -8,11 +8,15 @@ conteúdo para esta conta, salvo indicação em contrário.
 
 - **Nome da marca:** MM AutoTech (Tecnologia Automotiva)
 - **Instagram:** [@mmautotech8](https://www.instagram.com/mmautotech8)
-- **Logo:** "MM" empilhado com barra vermelha de destaque + "AUTOTECH" abaixo
+- **Logo oficial:** arquivo cromado 3D — `mm-autotech-design/skills/mm-carousel-pro/assets/logo/mm-logo.png` (versão com fundo transparente; fonte em `mm-logo-source.jpg`). "MM" + "AUTO TECH" + "DIAGNOSTICO AUTOMOTIVO", prata/cromado com risco vermelho. **Usar este logo em todos os posts.**
+- **Localização:** João Monlevade (MG)
 - **Segmento:** Diagnóstico e serviços automotivos (scanner OBD-II, manutenção)
 - **Tom:** Técnico, ousado, profissional e confiável
 - **Idioma:** Português (BR)
-- **Fundação:** Marca **nova — criada em 2026**, em Guarulhos.
+- **Fundação:** Marca **nova — criada em 2026**, em João Monlevade (MG).
+
+> ⚠️ **NUNCA citar Guarulhos** — a empresa não tem relação com essa cidade.
+> A localização é **João Monlevade (MG)**.
 
 > ⚠️ **NUNCA citar tempo de mercado / anos de experiência / "desde 1989" /
 > "+30 anos" / "décadas".** A marca é nova. Autoridade vem da **tecnologia de

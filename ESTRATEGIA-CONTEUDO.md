@@ -1,18 +1,25 @@
 # Estratégia de Conteúdo Instagram — MM AutoTech (@mmautotech8)
 
 > Baseado na *Pesquisa de concorrentes — MM AutoTech* (15/06/2026).
-> Oficina em Guarulhos. **Marca nova (2026).** Mecânica completa, ar-condicionado,
+> Oficina em João Monlevade. **Marca nova (2026).** Mecânica completa, ar-condicionado,
 > diagnóstico, injeção eletrônica, freios, suspensão, câmbio, direção hidráulica e retífica.
 >
 > ⚠️ **Não usar** alegações de tempo de mercado ("desde 1989", "+30 anos", "décadas").
 > A autoridade da MM vem de **tecnologia + transparência + diagnóstico justo**, não de longevidade.
+>
+> 🚨 **Atenção — escopo geográfico:** a pesquisa de concorrentes original foi feita
+> para o mercado de **Guarulhos (SP)**. A MM AutoTech fica em **João Monlevade (MG)**.
+> Os 8 concorrentes listados (High Torque, Divas Car, Maia Car etc.) **não são
+> concorrentes locais reais**. Os *pilares, formatos e ideias de conteúdo* abaixo
+> seguem válidos, mas a **análise competitiva deve ser refeita para João Monlevade/MG**
+> antes de decisões de posicionamento por concorrência.
 
 ---
 
 ## 1. Resumo estratégico
 
 Nenhum concorrente forte vende "oficina mecânica" — todos vendem **redução de insegurança**
-(diagnóstico, transparência, garantia e prova social). A briga em Guarulhos não é por preço;
+(diagnóstico, transparência, garantia e prova social). A briga em João Monlevade não é por preço;
 é por **confiança comunicada**.
 
 Como a MM é **nova**, ela não tem histórico para exibir — então constrói autoridade
@@ -106,7 +113,7 @@ Estrutura: Gancho (0–3s) → Problema → Prova/processo → CTA.
 2. **Caso resolvido:** "Passou em 2 oficinas e continuou falhando" → código no scanner → peça de R$80 → CTA.
 3. **Peça antiga × nova:** duas peças → aponta defeito → "Você aprova antes" → "Transparência é o padrão".
 4. **AC não gela:** mão no difusor morno → "gás, vazamento, filtro ou compressor?" → teste → "Avalie antes do calor".
-5. **Bastidores:** conheça a MM → equipamento e scanner → time trabalhando → "Diagnóstico de verdade em Guarulhos".
+5. **Bastidores:** conheça a MM → equipamento e scanner → time trabalhando → "Diagnóstico de verdade em João Monlevade".
 6. **Carro falhando:** motor oscilando → "vela, bobina, bico, sensor?" → teste → "Agende cedo".
 7. **Scanner explicado:** DTCs na tela → "isso é o carro falando" → "a gente traduz" → CTA.
 8. **Freio:** chiado → pastilha gasta → "não deixe pra depois" → "Avaliação hoje".
@@ -192,7 +199,7 @@ Distribuição: Pilar 1 ×6 · Pilar 2 ×4 · Pilar 3 ×9 · Pilar 4 ×6 · Pila
 4. "Clique no link da bio e fale com nossa equipe."
 5. "Faça seu orçamento com transparência — sem surpresa."
 6. "Agende sua revisão preventiva."
-7. "Está em Guarulhos? Traga seu carro pra uma avaliação."
+7. "Está em João Monlevade? Traga seu carro pra uma avaliação."
 8. "Não troque peça no chute. Faça o diagnóstico certo."
 9. "Tem dúvida no seu carro? Chama sem compromisso."
 10. "Seu ar-condicionado parou de gelar? Avalie antes do calor."
